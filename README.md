@@ -39,8 +39,4 @@ Andrew McLean-
    amclean@icac.cat
    
 
-Xavier Rubio Campillo-
-
-  University of Barcelona
-
-  xrubio@ub.edu
+Katarina Sprem
