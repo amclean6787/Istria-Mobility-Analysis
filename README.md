@@ -34,9 +34,9 @@ R, GRASS GIS, Julia and QQGIS are all open source and are all that are required 
 Andrew McLean-
 
 
-   Institut Català d'Arqueologia Clàssica (ICAC)
+   Barcelona Supercomputing Center (BSC)
    
-   amclean@icac.cat
+   andrew.mclean@bsc.es
    
 
-Katarina Sprem
+Katarina Šprem
