@@ -20,7 +20,7 @@ R, GRASS GIS, Julia and QQGIS are all open source and are all that are required 
 * sf
 
 ## Process
-* Download the datasets from : XXXX
+* Download the datasets
 * Ensure inputs and source code are within the same root folder
 * Run the setup R script (Istria_mobility_analysis.R) (lines 1-45) and then the LCP analysis (lines 46-102)
 * Run the GRASS setup R script (lines 103-155) and then generate the cost corridors in GRASS GIS using r.cost and return to finish the analysis in R (lines 157-196)
