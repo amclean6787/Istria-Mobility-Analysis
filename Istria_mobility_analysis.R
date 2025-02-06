@@ -502,5 +502,3 @@ shapiro.test(Rural_CT$Max_CT_avg)
 ks.test(Urban_CT$Max_CT_avg, Rural_CT$Max_CT_avg)
 
 # END #
-
-ggplot()
