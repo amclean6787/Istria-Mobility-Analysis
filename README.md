@@ -8,7 +8,7 @@
 * [Authors and Contact](#author-and-contact)
 
 ## General Info
-This repository contains the source code for the paper submitted to the Journal of Archaeological Method and Theory. The data inputs can be found at: https://figshare.com/s/ff2b987801ba8bb0ef4f and outputs at: https://figshare.com/s/1b862ee146e80fb07de2
+This repository contains the source code for the paper "Modelling Mobility and the Road Network and Urban-Rural Divide of Roman Istria: A Comparison of Least Cost Paths, Cost Corridors and Circuit Theory" submitted to the Journal of Archaeological Method and Theory. The data inputs can be found at: https://figshare.com/s/ff2b987801ba8bb0ef4f and outputs at: https://figshare.com/s/1b862ee146e80fb07de2
 
 ## Requirements
 Most of the setup and analysis was conducted in R, with some of the Cost Corridor analysis using GRASS GIS and the LCPs in QGIS and the actual implementation of circuit theory using the circuitscape package in Julia.
